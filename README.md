@@ -4,7 +4,7 @@
 
 ### Easy
 
-<a href="https://nam-ki-bok.github.io/leetcode/LeetShuffle/" style="color:#0FA678">[LeetCode] Shuffle The Array</a>
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_Shuffle/" style="color:#0FA678">[LeetCode] Shuffle The Array</a>
 
 <br>
 
