@@ -14,6 +14,8 @@
 
 ### Medium
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_GoodPairs/" style="color:#0FA678">[LeetCode] Group the People Given the Group Size They Belong To</a>
+
 <br>
 
 ### Hard
