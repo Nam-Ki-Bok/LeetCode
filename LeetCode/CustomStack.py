@@ -16,7 +16,7 @@ class CustomStack:
 
 	def increment(self, k: int, val: int) -> None:
 		idx = 0
-		while idx < k and idx < self.my_maxsize:
+		while idx < min(k, self.my_maxsize):
 			try:
 				self.my_stack[idx] += val
 			except IndexError:

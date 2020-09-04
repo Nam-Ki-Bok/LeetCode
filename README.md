@@ -40,6 +40,8 @@
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_MergeBST/" style="color:#0FA678">[LeetCode] 1305. All Elements in Two Binary Search Trees</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_CustomStack/" style="color:#0FA678">[LeetCode] 1381. Design a Stack With Increment Operation</a>
+
 <br>
 
 ### Hard
